@@ -1,7 +1,7 @@
 {
   "name": "@cin12211/nestjs-cloudflare",
   "author": "Cinny",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "main": "./dist/index",
   "repository": "https://github.com/cin12211/nestjs-cloudflare",
   "engines": {
