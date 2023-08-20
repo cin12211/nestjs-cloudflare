@@ -1,0 +1,8 @@
+{
+  "extends": ["@enouvo/eslint-config-react"],
+  "rules": {
+    "@typescript-eslint/no-unnecessary-condition": "off",
+    "no-restricted-imports": "off",
+    "@typescript-eslint/no-non-null-asserted-optional-chain": "warn"
+  },
+}
